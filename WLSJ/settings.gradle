@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "WLSJ"
 include ':app'
+include ':wlsj'
