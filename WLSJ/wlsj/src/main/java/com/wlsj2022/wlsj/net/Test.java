@@ -1,5 +1,6 @@
-package com.wlsj2022.wlsj;
+package com.wlsj2022.wlsj.net;
 
-public class Utils {
+public class Test {
     public static final String NEW_PROJECT = "未来世界";
+
 }
