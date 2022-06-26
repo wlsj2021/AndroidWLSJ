@@ -1,6 +1,7 @@
 package com.wlsj2022.wlsj.mvvm.utils;
 
-import com.wzq.mvvmsmart.utils.constant.RegexConstants;
+
+import com.wlsj2022.wlsj.mvvm.utils.constant.RegexConstants;
 
 import java.util.ArrayList;
 import java.util.List;
