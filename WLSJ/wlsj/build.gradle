@@ -1,5 +1,6 @@
 apply plugin: 'com.android.library'
 group='com.github.wlsj2021'
+apply plugin: 'maven-publish'
 
 android {
     compileSdk 28
